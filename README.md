@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello world, i'm Luiz, Thiago Luiz - aka NotTodayFela `♥ that's my player name ♦`
 
-<!--
-**RpThiagoluiz/RpThiagoluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web Developer,   
+    <img src:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fbognarjunior.wordpress.com%2F2018%2F03%2F25%2Freact-criando-o-primeiro-componente%2F&psig=AOvVaw3khohJXh7ElmfgkKcjEn4o&ust=1605820267199000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICDmOeAje0CFQAAAAAdAAAAABAJ" width:30px>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]
+[twitter] 
+[linkedin]
+
+
+
+[website]: https://devthiagoluiz.com.br/
+[twitter]: https://twitter.com/RpThiagoluiz
+[linkedin]: https://www.linkedin.com/in/thiago-luiz-0984191a7/
