@@ -18,7 +18,7 @@
 
 [<img align="left" alt="linkedin" width="28px" src="https://simpleicons.org/icons/linkedin.svg"/>][linkedin]
 
-[<img align="left" alt="Site devthiagoluiz" width=280px" src="https://simpleicons.org/icons/googlechrome.svg"/>][website]
+[<img align="left" alt="Site devthiagoluiz" width=28px" src="https://simpleicons.org/icons/googlechrome.svg"/>][website]
 
 <br/>
 
@@ -34,6 +34,7 @@
 <br/>
 <br/>
 
+<!--Links To Social Media ->
 [website]: https://devthiagoluiz.com.br/
 [twitter]: https://twitter.com/RpThiagoluiz
 [linkedin]: https://www.linkedin.com/in/thiago-luiz-0984191a7/
