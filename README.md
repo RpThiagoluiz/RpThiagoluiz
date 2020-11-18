@@ -6,7 +6,7 @@
 
    - I started studying in 2019. Currently, I dedicate my studies to improve my skills with reactJS, reactNative, and typescript.
    - Now, I'm developer Junior
-   - I have a web site and i'm working on it.[<img align="right" alt="Site devthiagoluiz" width="30px" src="https://simpleicons.org/icons/googlechrome.svg"/>][website]
+   - I have a web site and i'm working on it.
 
    **I F%#@% LOVE IT**
 
@@ -28,7 +28,7 @@
 [<img align="left" width="32px" src="https://simpleicons.org/icons/javascript.svg"/>]
 [<img align="left" width="32px" src="https://simpleicons.org/icons/css3.svg"/>]
 [<img align="left" width="32px" src="https://simpleicons.org/icons/styled-components.svg"/>]
-
+[<img align="left" width="32px" src="https://simpleicons.org/icons/react.svg"/>]
 
 
 <br/>
