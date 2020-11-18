@@ -28,7 +28,7 @@
 [<img align="left" width="32px" src="https://simpleicons.org/icons/javascript.svg"/>]
 [<img align="left" width="32px" src="https://simpleicons.org/icons/css3.svg"/>]
 [<img align="left" width="32px" src="https://simpleicons.org/icons/styled-components.svg"/>]
-[<img align="left" width="32px" src="https://simpleicons.org/icons/react.svg"/>]
+
 
 
 <br/>
