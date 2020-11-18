@@ -20,7 +20,9 @@
 
 [<img align="left" alt="Site devthiagoluiz" width=280px" src="https://simpleicons.org/icons/googlechrome.svg"/>][website]
 
-## skills
+<br/>
+
+### Skills
 
 [<img align="left" width="32px" src="https://simpleicons.org/icons/html5.svg"/>]
 [<img align="left" width="32px" src="https://simpleicons.org/icons/javascript.svg"/>]
@@ -28,6 +30,9 @@
 [<img align="left" width="32px" src="https://simpleicons.org/icons/styled-components.svg"/>]
 [<img align="left" width="32px" src="https://simpleicons.org/icons/react.svg"/>]
 
+
+<br/>
+<br/>
 
 [website]: https://devthiagoluiz.com.br/
 [twitter]: https://twitter.com/RpThiagoluiz
