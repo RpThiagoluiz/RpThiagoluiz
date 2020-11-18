@@ -12,14 +12,16 @@
 <br />
 
 <h2> Social </h2>
+
    <a href="https://www.linkedin.com/in/thiago-luiz-0984191a7" target="blank"><img align="left" alt="linkedIn-Thiago" width="28px" height="28px" src="https://simpleicons.org/icons/linkedin.svg"/>
    </a>
    <a href="https://twitter.com/RpThiagoluiz" target="blank"><img align="left" alt="twitter-Thiago" width="28px" height="28px" src="https://simpleicons.org/icons/twitter.svg"/>
    </a>
    <a href="https://devthiagoluiz.com.br/" target="blank"><img align="left" alt="Site-Thiago" width="28px" height="28px" src="https://simpleicons.org/icons/googlechrome.svg"/>
    </a>
+   
+   
 <br />
-
 
 <h2> Skills </h2>
 
