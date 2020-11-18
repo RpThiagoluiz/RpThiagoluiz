@@ -5,7 +5,7 @@
 
    - I started studying in 2019. Currently, I dedicate my studies to improve my skills with reactJS, reactNative, and typescript.
    - Now, I'm developer Junior
-   - I have a web site and i'm working on it.
+   - I have a web site and i'm working on it.<a href="https://devthiagoluiz.com.br/" target="blank">Link</a>
 
    
 
