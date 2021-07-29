@@ -1,33 +1,29 @@
-<h1 align="left"> Hello world, i'm Luiz, Thiago Luiz </h1>
-<br />
+## Hello world! I'm Thiago Luiz
 
-<h2> Web Developer </h2>
+- 💻 Work as a frontend Developer in JS
 
-   - I started studying in 2019. Currently, I dedicate my studies to improve my skills with reactJS, reactNative, and typescript.
-   - Now, I'm developer Junior
-   - I have a web site and i'm working on it.<a href="https://devthiagoluiz.com.br/" target="_blank">Link</a>
+ <div>
+  <a href="https://github.com/RpThiagoluiz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RpThiagoluiz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RpThiagoluiz&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="DevThiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="DevThiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="DevThiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="DevThiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="DevThiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="DevThiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="DevThiago-RN" height="40" width="120" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="right" alt="DevThiago-RN" height="40" width="120" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/thiago-luiz-0984191a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/RpThiagoluiz/RpThiagoluiz/blob/output/github-contribution-grid-snake.svg)
 
-   
-
-<br />
-
-<h2> Social </h2>
-
-   <a href="https://www.linkedin.com/in/thiago-luiz-0984191a7" target="blank"><img align="left" alt="linkedIn-Thiago" width="28px" height="28px" src="https://simpleicons.org/icons/linkedin.svg"/>
-   </a>
-   <a href="https://twitter.com/RpThiagoluiz" target="blank"><img align="left" alt="twitter-Thiago" width="28px" height="28px" src="https://simpleicons.org/icons/twitter.svg"/>
-   </a>
-   <a href="https://devthiagoluiz.com.br/" target="blank"><img align="left" alt="Site-Thiago" width="28px" height="28px" src="https://simpleicons.org/icons/googlechrome.svg"/>
-   </a>
-   
-   
-<br />
-
-<h2> Skills </h2>
-
-<img align="left" width="32px" height="32px" src="https://simpleicons.org/icons/html5.svg" />
-<img align="left" width="32px" height="32px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" width="32px" height="32px" src="https://simpleicons.org/icons/css3.svg" />
-<img align="left" width="32px" height="32px" src="https://simpleicons.org/icons/styled-components.svg" />
-<img align="left" width="32px" height="32px" src="https://simpleicons.org/icons/react.svg" />
-
+</div>
