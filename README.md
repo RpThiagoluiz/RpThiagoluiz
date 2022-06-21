@@ -1,7 +1,6 @@
 ## Hello world! I'm Thiago Luiz
 
 - 💻 Work as a frontend Developer in JS
-- 📔 Study React Native, Redux.
 - 🎮 Play Steam, League of Legends, COD,...
 
  <div>
