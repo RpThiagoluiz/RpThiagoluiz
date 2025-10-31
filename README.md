@@ -120,18 +120,6 @@ Full-Stack Developer with **6+ years of experience** specialized in **JavaScript
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RpThiagoluiz&show_icons=true&theme=dark)](https://github.com/RpThiagoluiz)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RpThiagoluiz&layout=compact&theme=dark)](https://github.com/RpThiagoluiz)
-
-</div>
-
----
-
 ## 📫 Contato | Contact
 
 - 📧 **Email**: [rp.thiagoluiz@gmail.com](mailto:rp.thiagoluiz@gmail.com)
